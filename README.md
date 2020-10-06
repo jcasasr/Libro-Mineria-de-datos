@@ -1,8 +1,8 @@
+<a href="http://www.editorialuoc.cat/mineria-de-datos"><img src="https://www.editorialuoc.cat/media/cache/a8/a1/a8a12045c1e742d4005870e8b91cdf3f.jpg" alt="Minería de datos: modelos y algoritmos" height="256px" align="right"></a>
+
 # Minería de datos: Modelos y algoritmos
 ## Material adicional del libro **Minería de datos: Modelos y algoritmos**
 ### Por Jordi Gironès, Jordi Casas, Julià Minguillón y Ramon Caihuelas
-
-<a href="http://www.editorialuoc.cat/mineria-de-datos"><img src="https://www.editorialuoc.cat/media/cache/a8/a1/a8a12045c1e742d4005870e8b91cdf3f.jpg" alt="Minería de datos: modelos y algoritmos" height="256px" align="right"></a>
 
 **Este github contiene el código del libro [Minería de datos: algoritmos y modelos](http://www.editorialuoc.cat/mineria-de-datos), publicado por Editorial UOC**
 
