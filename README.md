@@ -25,5 +25,5 @@ Recomendamos los siguientes enlaces para poder instalar los componentes de softw
 ## Capítulo 3. Preparación de los datos
 En este ejemplo se trabajan funciones de R para explorar visualmente y mediante descriptores estadísticos el juego de datos.
 
-- [B2.332_Students.csv](capítulo 3/B2.332_Students.csv)
-- [Preparación de los datos (R)](capítulo 3/CH3EJ1-Preparacion-de-los-datos.ipynb)
+- [B2.332_Students.csv](cap03/B2.332_Students.csv)
+- [Preparación de los datos (R)](cap03/CH3EJ1-Preparacion-de-los-datos.ipynb)
