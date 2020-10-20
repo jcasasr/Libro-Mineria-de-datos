@@ -34,3 +34,15 @@ Este ejemplo muestra como extraer los valores singulares en un conjunto de datos
 - [Extracción de características (R)](cap06/CH6EJ1-Extraccion-de-caracteristicas.ipynb): En este ejemplo se buscan correlaciones entre las variables y se descubren variables con un mayor peso predictivo.
 - [Análisis de componentes principales (R)](cap06/CH6EJ2-Analisis-de-componentes-principales.ipynb): Este ejemplo muestra como extraer los componentes principales en un conjunto de datos y valorar su representatividad.
 - [Descomposición en valores singulares (R)](cap06/CH6EJ3-Descomposicion-en-valores-singulares.ipynb): Este ejemplo muestra realizar una descomposición en valores singulares.
+
+## Capítulo 11. Máquinas de soporte vectorial
+En estos ejemplos se muestra cómo utilizar las máquinas de soporte vectorial (SVM) a partir ejemplos en Python y R (paquete de R 'e1071'). Se trabajan los distintos modelos de kernel: lineal, radial, polinomial y sigmoidal. También se comparan los resultados de trabajar con dos dimensiones o con todas.
+
+- [Máquinas de soporte vectorial (R)](cap11/CH11EJ1-Maquinas-de-soporte-vectorial-R.ipynb)
+- [Máquinas de soporte vectorial (Python)](cap11/CH11EJ2-Maquinas-de-soporte-vectorial-Py.ipynb)
+
+## Capítulo 12. Redes neuronales
+En estos ejemplos se muestra cómo utilizar las redes neuronales artificiales (NN) a partir ejemplos en Python y R (paquete de R 'neuralnet'). Se ven las distintas posibilidades de una red neuronal: capas, neuronas y criterio de parada.
+
+- [Redes neuronales (R)](cap12/CH12EJ1-Redes-neuronales-R.ipynb)
+- [Redes neuronales (Python)](cap12/CH12EJ2-Redes-neuronales-Py.ipynb)
