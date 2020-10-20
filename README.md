@@ -46,3 +46,27 @@ En estos ejemplos se muestra cómo utilizar las redes neuronales artificiales (N
 
 - [Redes neuronales (R)](cap12/CH12EJ1-Redes-neuronales-R.ipynb)
 - [Redes neuronales (Python)](cap12/CH12EJ2-Redes-neuronales-Py.ipynb)
+
+## Capítulo 13. Árboles de decisión
+Los siguientes ejemplos crean un árbol de decisión con el algoritmo C5.0. Posteriormente se intenta mejorar la calidad con técnicas de boosting, VSD y PCA. También se muestra como evaluar la capacidad predictiva del modelo generado y ejemplos de árboles generados con poda o sin poda.
+
+Ejemplos en R:
+
+- [Creación de un árbol de decisión con el algoritmo C5.0 (R)](cap13/CH13EJ1-Creacion-de-un-arbol-de-decision-C50.ipynb)
+- [Mejora del árbol con técnicas de boosting (R)](cap13/CH13EJ2-Mejora-de-arbol-con-tecnicas-de-boosting.ipynb)
+- [Capacidad predictiva del modelo generado (R)](cap13/CH13EJ3-Capacidad-predictiva-del-modelo-generado.ipynb)
+- [Podado del árbol (R)](cap13/CH13EJ4-Podado-del-arbol.ipynb)
+- [Creación de arbol de decisión y mejora con SVD (R)](cap13/CH13EJ5-Creacion-de-arbol-de-decision-y-mejora-con-VSD.ipynb)
+- [Creación de arbol de decisión y mejora con PCA (R)](cap13/CH13EJ6-Creacion-de-arbol-de-decision-y-mejora-con-PCA.ipynb)
+
+Ejemplos en Python:
+
+- [Creación de un árbol de decisión con el algoritmo CART (Python)](cap13/CH13EJ7-Creacion-de-un-arbol-de-decision-CART.ipynb)
+
+## Capítulo 15. Combinación de clasificadores
+En los siguientes ejemplos se mejora el resultado de un clasificador mediante las técnicas de Bagging, Boosting, Random Forest y Stacked.
+
+- [Bagging (R)](cap15/CH15EJ1-Bagging.ipynb)
+- [Boosting (R)](cap15/CH15EJ2-Boosting.ipynb)
+- [Random Forest (R)](cap15/CH15EJ3-Random-Forest.ipynb)
+- [Stacked (R)](cap15/CH15EJ4-Stacked.ipynb)
