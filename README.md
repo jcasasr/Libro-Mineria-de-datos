@@ -27,3 +27,10 @@ En este ejemplo se trabajan funciones de R para explorar visualmente y mediante 
 
 - [B2.332_Students.csv](cap03/B2.332_Students.csv)
 - [Preparación de los datos (R)](cap03/CH3EJ1-Preparacion-de-los-datos.ipynb)
+
+## Capítulo 6. Extracción y selección de atributos
+Este ejemplo muestra como extraer los valores singulares en un conjunto de datos y valorar su representatividad.
+
+- [Extracción de características (R)](cap06/CH6EJ1-Extraccion-de-caracteristicas.ipynb): En este ejemplo se buscan correlaciones entre las variables y se descubren variables con un mayor peso predictivo.
+- [Análisis de componentes principales (R)](cap06/CH6EJ2-Analisis-de-componentes-principales.ipynb): Este ejemplo muestra como extraer los componentes principales en un conjunto de datos y valorar su representatividad.
+- [Descomposición en valores singulares (R)](cap06/CH6EJ3-Descomposicion-en-valores-singulares.ipynb): Este ejemplo muestra realizar una descomposición en valores singulares.
