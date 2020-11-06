@@ -44,6 +44,13 @@ Ejemplos en R:
 - [Análisis de componentes principales](cap06/CH6EJ2-Analisis-de-componentes-principales.ipynb): Este ejemplo muestra como extraer los componentes principales en un conjunto de datos y valorar su representatividad.
 - [Descomposición en valores singulares](cap06/CH6EJ3-Descomposicion-en-valores-singulares.ipynb): Este ejemplo muestra realizar una descomposición en valores singulares.
 
+## Capítulo 7. Agrupamiento jerárquico
+Este ejemplo muestra del agrupamiento jerárquico y los dendogramas.
+
+Ejemplos en Python:
+
+- [Agrupamiento jeràrquico y dendogramas](cap07/CH7EJ1-Agrupamiento-jerarquico.ipynb): En este ejemplo se muestra la base del agrupamiento jerárquico y los dendogramas.
+
 ## Capítulo 11. Máquinas de soporte vectorial
 En estos ejemplos se muestra cómo utilizar las máquinas de soporte vectorial (SVM) a partir ejemplos en Python y R (paquete de R 'e1071'). Se trabajan los distintos modelos de kernel: lineal, radial, polinomial y sigmoidal. También se comparan los resultados de trabajar con dos dimensiones o con todas.
 
