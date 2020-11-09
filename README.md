@@ -49,7 +49,7 @@ Este ejemplo muestra del agrupamiento jerárquico y los dendogramas.
 
 Ejemplos en Python:
 
-- [Agrupamiento jeràrquico y dendogramas](cap07/CH7EJ1-Agrupamiento-jerarquico.ipynb): En este ejemplo se muestra la base del agrupamiento jerárquico y los dendogramas.
+- [Agrupamiento jerárquico y dendogramas](cap07/CH7EJ1-Agrupamiento-jerarquico.ipynb): En este ejemplo se muestra la base del agrupamiento jerárquico y los dendogramas.
 
 ## Capítulo 11. Máquinas de soporte vectorial
 En estos ejemplos se muestra cómo utilizar las máquinas de soporte vectorial (SVM) a partir ejemplos en Python y R (paquete de R 'e1071'). Se trabajan los distintos modelos de kernel: lineal, radial, polinomial y sigmoidal. También se comparan los resultados de trabajar con dos dimensiones o con todas.
@@ -73,6 +73,7 @@ Ejemplos en Python:
 
 - [Redes neuronales con sklearn e IRIS](cap12/CH12EJ2-Redes-neuronales-sklearn_IRIS.ipynb): Ejemplo de clasificación mediante redes neuronales empleando sklearn y el conjunto de datos IRIS.
 - [Redes neuronales con keras y Fashion-MNIST](cap12/CH12EJ3-Redes-neuronales-keras_FMNIST.ipynb): Creación de una red neuronal para clasificación del conjunto de datos FASHION-MNIST.
+- [Ejemplo de transferencia de estilo (NST)](cap12/CH12EJ4-NST-Keras.ipynb): Desarrollo de un modelo de transferencia de estilo (Network style transfer, NST) con Keras basado en una red VGG19 preentrenada.
 
 ## Capítulo 13. Árboles de decisión
 Los siguientes ejemplos crean un árbol de decisión con el algoritmo C5.0. Posteriormente se intenta mejorar la calidad con técnicas de boosting, VSD y PCA. También se muestra como evaluar la capacidad predictiva del modelo generado y ejemplos de árboles generados con poda o sin poda.
